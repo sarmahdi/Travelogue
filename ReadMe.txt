@@ -1,3 +1,12 @@
+Project Name:		Travelogue
+Status:			Complete
+Notes			This is a Batch process application and should be run through command line.
+Frameworks:		Java, JAXB, MOXy, JUnit. 
+IDE:			NetBeans IDE
+Application Servers	N/A
+JDK:			Java 7
+
+
 This is he Travelogue destination Information creation. It generates static html files for each location in their destination list and contains different information for that location from the perspective of a traveller of what to expect and how to travel to that region. Some locations have more informations than the other.
 
 It takes three inputs
